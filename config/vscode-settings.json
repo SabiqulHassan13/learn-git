@@ -1,0 +1,28 @@
+{
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": "'calt', 'cv01', 'cv02', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06'",
+
+  "editor.letterSpacing": 0,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.linkedEditing": true,
+  "explorer.confirmDragAndDrop": false
+}
